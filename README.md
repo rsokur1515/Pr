@@ -1,10 +1,12 @@
 # This is our project for Data Analysis course for FEN 2023.
 ## Team members:
 
-Rustam Sokurov (team lead)
-Marina Gritskova (manager)
-Maxim Bublik (contributor)
-##Project Description
+<ul>
+<li>Rustam Sokurov (team lead)</li>
+<li>Marina Gritskova (manager)</li>
+<li>Maxim Bublik (contributor)</li>
+</ul>
+## Project Description
 The aim of this project is to analyze the impact of foreign direct investments (FDI) and population growth on the Gross Domestic Product (GDP) of a country. We will explore the relationships between these variables and develop a measure that reflects the influence of FDI on GDP, taking into account the restraining effect of population growth.
 
 ## Data
