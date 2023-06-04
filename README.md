@@ -1,9 +1,7 @@
 # This is our project for Data Analysis course for FEN 2023.
 ## Team members:
 <ul>
-<li>Rustam Sokurov (team lead)</li>
-<li>Marina Gritskova (manager)</li>
-<li>Maxim Bublik (contributor)</li>
+<li>Rustam Sokurov</li>
 </ul>
 
 ## Project Description
