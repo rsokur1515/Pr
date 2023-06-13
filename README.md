@@ -2,6 +2,8 @@
 ## Team members:
 <ul>
 <li>Rustam Sokurov</li>
+<li>Gritskova Marina</li>
+<li>Bublik Maxim</li>
 </ul>
 
 ## Project Description
